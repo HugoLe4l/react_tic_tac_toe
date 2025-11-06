@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# JogoDaVelha
+# Jogo da Velha
 
 Disponivel em : <a href="https://hugole4l.github.io/react_tic_tac_toe/"> Clique para acessar o projeto </a>
 =======
