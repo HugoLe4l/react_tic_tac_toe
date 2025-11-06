@@ -1,0 +1,18 @@
+.quadrado{
+    width: 130px;
+    aspect-ratio: 1/1;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: white;
+}
+.quadrado .icon{
+    font-size: 4rem;
+}
+.quadrado .jogador1{
+    color: var(--color-jogador-1);
+}
+.quadrado .jogador2{
+    color: var(--color-jogador-2);
+}
